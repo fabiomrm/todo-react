@@ -4,7 +4,7 @@ import Todo from './components/Todo';
 
 function App() {
 
-  const modalVisible = false;
+
 
   return (
     <>
